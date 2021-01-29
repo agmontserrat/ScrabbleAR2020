@@ -1,0 +1,93 @@
+{
+    "TODOS": [
+        {
+            "jugador": "Agus",
+            "puntaje": 260,
+            "nivel": "FACIL",
+            "fecha": "10-08-2020"
+        },
+        {
+            "jugador": "Flor",
+            "puntaje": 46,
+            "nivel": "FACIL",
+            "fecha": "10-08-2020"
+        },
+        {
+            "jugador": "Maria Paz",
+            "puntaje": 30,
+            "nivel": "FACIL",
+            "fecha": "10-08-2020"
+        },
+        {
+            "jugador": "Agustina",
+            "puntaje": 23,
+            "nivel": "FACIL",
+            "fecha": "10-08-2020"
+        },
+        {
+            "jugador": "Isa",
+            "puntaje": 10,
+            "nivel": "FACIL",
+            "fecha": "10-08-2020"
+        },
+        {
+            "jugador": "Bruno",
+            "puntaje": 8,
+            "nivel": "FACIL",
+            "fecha": "13-10-2020"
+        },
+        {
+            "jugador": "Isa",
+            "puntaje": 2,
+            "nivel": "MEDIO",
+            "fecha": "10-08-2020"
+        }
+    ],
+    "FACIL": [
+        {
+            "jugador": "Agus",
+            "puntaje": 260,
+            "nivel": "FACIL",
+            "fecha": "10-08-2020"
+        },
+        {
+            "jugador": "Flor",
+            "puntaje": 46,
+            "nivel": "FACIL",
+            "fecha": "10-08-2020"
+        },
+        {
+            "jugador": "Maria Paz",
+            "puntaje": 30,
+            "nivel": "FACIL",
+            "fecha": "10-08-2020"
+        },
+        {
+            "jugador": "Agustina",
+            "puntaje": 23,
+            "nivel": "FACIL",
+            "fecha": "10-08-2020"
+        },
+        {
+            "jugador": "Isa",
+            "puntaje": 10,
+            "nivel": "FACIL",
+            "fecha": "10-08-2020"
+        },
+        {
+            "jugador": "Bruno",
+            "puntaje": 8,
+            "nivel": "FACIL",
+            "fecha": "13-10-2020"
+        }
+    ],
+    "MEDIO": [
+        {
+            "jugador": "Isa",
+            "puntaje": 2,
+            "nivel": "MEDIO",
+            "fecha": "10-08-2020"
+        }
+    ],
+    "DIFICIL": []
+}
